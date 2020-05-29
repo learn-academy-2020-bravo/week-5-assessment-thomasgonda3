@@ -26,3 +26,5 @@ var hand1 = [5, 5, 5, 3, 3]
 // Expected output: true
 var hand2 = [5, 5, 3, 3, 4]
 // Expected output: false
+var hand3 = [5, 5, 5, 5, 4]
+// Expected output: false
